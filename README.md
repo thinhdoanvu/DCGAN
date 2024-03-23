@@ -48,7 +48,8 @@ Let’s define some inputs for the run:
 In this tutorial we will use the `Celeb-A Faces dataset <http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html>`__ which can be downloaded at the linked site, or in `Google Drive <https://drive.google.com/drive/folders/0B7EVK8r0v71pTUZsaXdaSnZBZzg>`__.
 The dataset will download as a file named *img_align_celeba.zip*. Once downloaded, create a directory named *celeba* and extract the zip file into that directory. Then, set the *dataroot* input for this notebook to the *celeba* directory you just created. The resulting directory structure should be:
 
- ::
+ <img width="372" alt="image" src="https://github.com/thinhdoanvu/DCGAN/assets/22977443/d62aa92b-1b50-4228-9d23-64a0668869b6">
+
  
     /path/to/celeba
     
